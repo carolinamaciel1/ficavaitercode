@@ -1,0 +1,27 @@
+.div-posts{
+    margin: 65px 0 65px 0;
+    font-size: 14px;
+}
+.div-posts h1{
+    font-size:30px;
+
+}
+
+.div-posts h1 a{
+    text-decoration:none;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    border-bottom: 2px solid orange;
+    border-top: 2px solid orange;
+    width: 500px;
+}
+
+
+.div-posts p{
+    margin-top: 30px;
+}
+
+
+a{
+    color: black;
+}
